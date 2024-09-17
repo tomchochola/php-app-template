@@ -1,9 +1,29 @@
-# Preview [php-template](https://github.com/premierstacks/php-template)
+# Preview [https://github.com/premierstacks/php-template](https://github.com/premierstacks/php-template)
 
-This repository gives you a glimpse into the features and benefits of our premium **php-template** package.<br />
+This repository gives you a glimpse into the features and benefits of our premium **premierstacks/php-template** package.<br />
 By exploring the contents here, you’ll get an overview of what to expect from our full package, so you can make an informed decision before purchasing.
 
-> **[👉 Full version here – Get access to the complete package by purchasing a license!](https://github.com/premierstacks/php-template)**
+## Steps to Explore and Get Started
+
+### 1. **Explore the Offer**
+
+Dive into the features and benefits of the **premierstacks/php-template** package by browsing through the provided files and documentation.
+
+### 2. **Buy a License**
+
+> **[https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**
+
+If you find the package useful, support the development by purchasing a license. This will grant you access to the full version with all features.
+
+### 3. **Install the Package**
+
+> **[https://github.com/premierstacks/php-template](https://github.com/premierstacks/php-template)**
+
+Check out the complete package to see all the available features and updates.
+
+Follow the installation instructions provided in the full package repository to get started with **premierstacks/php-template**.
+
+## Usefull links
 
 **Buy your license here**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
 **Access the source code**: [https://github.com/premierstacks/php-template](https://github.com/premierstacks/php-template)<br />
@@ -11,6 +31,7 @@ By exploring the contents here, you’ll get an overview of what to expect from 
 **Explore all premium packages**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
 **Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
 
+---
 # [PHP Template](https://github.com/premierstacks/php-template) by [Tomáš Chochola](https://github.com/tomchochola)
 
 Launch PHP projects swiftly with our comprehensive template: it's equipped with top-tier configurations for quality and efficiency, catering to diverse use cases. Ideal for streamlined, robust development.
