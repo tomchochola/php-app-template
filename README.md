@@ -1,197 +1,208 @@
-# Preview [https://github.com/premierstacks/php-template](https://github.com/premierstacks/php-template)
+# Premierstacks Public Preview
 
-This repository gives you a glimpse into the features and benefits of our premium **premierstacks/php-template** package.<br />
-By exploring the contents here, you’ll get an overview of what to expect from our full package, so you can make an informed decision before purchasing.
+**This file has been extracted from: [https://github.com/premierstacks//home/tom/src/github/premierstacks/php-app-template/](https://github.com/premierstacks//home/tom/src/github/premierstacks/php-app-template/)**
 
-## Steps to Explore and Get Started
+Premierstacks is a collection of proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. Because these repositories are private and accessible only through a valid license, we offer this public preview to provide transparency and allow potential users to review the content before making a purchase.
 
-### 1. **Explore the Offer**
+By extracting key documentation and selected sample files to public repositories, we ensure that you can evaluate the quality, structure, and approach of Premierstacks without needing full access. This way, you can make an informed decision about whether our solutions are the right fit for your projects.
 
-Dive into the features and benefits of the **premierstacks/php-template** package by browsing through the provided files and documentation.
+To access the complete repositories, along with continuous updates and premium support, a valid Premierstacks license is required.
 
-### 2. **Buy a License**
-
-> **[https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**
-
-If you find the package useful, support the development by purchasing a license. This will grant you access to the full version with all features.
-
-### 3. **Install the Package**
-
-> **[https://github.com/premierstacks/php-template](https://github.com/premierstacks/php-template)**
-
-Check out the complete package to see all the available features and updates.
-
-Follow the installation instructions provided in the full package repository to get started with **premierstacks/php-template**.
-
-## Useful links
-
-**Buy your license here**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Access the source code**: [https://github.com/premierstacks/php-template](https://github.com/premierstacks/php-template)<br />
-**See previews of other packages**: [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Explore all premium packages**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+**Purchase a license here: [GitHub Sponsors](https://github.com/sponsors/tomchochola).**
 
 ---
-# [PHP Template](https://github.com/premierstacks/php-template) by [Tomáš Chochola](https://github.com/tomchochola)
 
-Launch PHP projects swiftly with our comprehensive template: it's equipped with top-tier configurations for quality and efficiency, catering to diverse use cases. Ideal for streamlined, robust development.
+**Original content starts here!**
 
-Our PHP Template is crafted to jumpstart your projects, providing a structured foundation and premium tooling configurations for code quality. This all-inclusive starter kit minimizes setup time, allowing you to dive into development with a framework that embodies best practices. Designed for accessibility, it suits developers of all levels, ensuring project quality from the get-go. The template is continually updated, ensuring adherence to the latest PHP standards and practices, making it a reliable and forward-thinking choice for your PHP projects.
+---
 
-## 👌 Top Reasons to Opt for Our Premium PHP Template
+# [PHP App Template](https://github.com/premierstacks/php-app-template) by [Tomáš Chochola](https://github.com/tomchochola)
 
-By incorporating our Premium PHP Template into your workflow, you're not just starting a project; you're adopting a strategy for success, ensuring your PHP endeavors are built on a solid, high-quality foundation.
+✨ _**Clone and Win!**_
 
-### ⏱️ Setup in Just 5 Minutes
+The PHP App Template provides a comprehensive starting point for building PHP applications. With pre-configured setups for code quality tools, linters, and testing frameworks, this template is designed to streamline development and ensure consistent standards across projects.
 
-Launch your PHP projects effortlessly with our template, designed for swift and seamless setup. This ensures you can focus on development right away, leveraging a foundation that embodies best practices and premium configurations.
+## What is PHP App Template?
 
-### 🕒 Hundreds of Hours of Research, So You Don't Have To
+The PHP App Template is part of the Premierstacks collection and serves as a foundational structure for creating PHP applications. It comes pre-configured with various tools and packages, including code quality checkers, static analysis, automatic formatting, and unit testing, making it an ideal starting point for any PHP-based project.
 
-Our PHP Template is built upon extensive research and the collective wisdom of PHP best practices. We've invested hundreds of hours to bring you a template that sets a high standard for code quality, saving you the time and effort of doing it all yourself.
+The template includes configurations for popular tools like PHPStan, ESLint, Prettier, and PHP CS Fixer, along with dotfiles for common project settings such as .editorconfig, .gitignore, and .gitattributes. It also provides a structured Makefile for common commands and environment provisioning, enabling you to quickly set up local, testing, development, staging, and production environments.
 
-### 🎚️ Minimal Setup, Maximum Efficiency
+This template’s flexibility allows developers to easily customize or remove components to fit specific project needs. Whether you’re building a pure PHP application or integrating with frameworks like Laravel, the PHP App Template is designed to save time, maintain consistency, and ensure high code quality throughout the project’s lifecycle.
 
-Enjoy the benefits of a well-structured foundation and premium configurations without the hassle of complex setup processes. Our template simplifies the initial steps, allowing you to achieve maximum efficiency from the outset.
+## What is Tomchochola
 
-### 📘 Zero Expertise Required
+[https://gitub.com/tomchochola](https://gitub.com/tomchochola)
 
-Dive into your PHP project without needing deep expertise in configuration tools. Our template is accessible to developers of all levels, ensuring you can elevate your project's quality with ease, regardless of your experience with PHP tooling.
+This is my personal GitHub profile, where you’ll find public documentation and sample repositories for proprietary packages and templates from Premierstacks. These public repositories are designed to give you an overview of the best practices and high-quality code I follow in all my projects.
 
-### 🔄 Continuously Updated
+## What is Premierstacks
 
-With our commitment to maintaining the highest standards, our PHP Template is continuously updated to reflect the latest in PHP development practices and tooling configurations, ensuring your project remains current and competitive.
+[https://gitub.com/premierstacks](https://gitub.com/premierstacks)
 
-### ⚔️ Battle-Tested Reliability
+Premierstacks is a collection of exclusive, proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. It was created to address the common pain points developers face with many open-source projects—quality, consistency, and maintainability. With Premierstacks, you get high-quality tools built with strict attention to detail, designed to help you build and maintain better projects, faster.
 
-Rely on a template that has been rigorously tested across diverse PHP projects. Our PHP Template provides a dependable foundation, ensuring high code quality and consistency across your project lifecycle.
+## Why Premierstacks?
 
-### 🏆 Premier Quality Guarantee
+I created Premierstacks because I wasn’t satisfied with the quality of many open-source projects. Maintaining high-quality code and ensuring long-term reliability is challenging when you’re not earning from the product. When you pay for something, it means the creator truly cares about its success and is committed to delivering the best possible outcome.
 
-Choosing our PHP Template signifies a commitment to excellence. This isn't just a starting point for PHP projects; it's a comprehensive solution that guarantees premier quality, setting your projects apart in the PHP community.
+Like Apple’s approach with their closed ecosystem, I believe that true excellence can only be achieved when every detail is under your control. That’s why Premierstacks is proprietary software—it's not just about providing solutions; it’s about ensuring those solutions meet the highest standards.
 
-## 🛡️ License & Usage
+### Why You Should Choose Premierstacks
 
-**Copyright © 2024+ Tomáš Chochola <chocholatom1997@gmail.com> - All Rights Reserved**
+**🚀 Unmatched Quality**
 
-[![License](https://img.shields.io/badge/License-©_Proprietary-blue.svg)](LICENSE.md)
+Our solutions adhere to the highest standards, ensuring clean and maintainable code.
 
-This software is the exclusive property of Tomáš Chochola, protected by copyright laws.<br />
-Although the source code may be accessible, it is not free for use without a valid license.<br />
-A valid license, obtainable through proper channels, is required for any software use.<br />
-For licensing or inquiries, please contact Tomáš Chochola or refer to the GitHub Sponsors page.
+**⚙️ No Setup Hassles**
 
-The full license terms are detailed in the LICENSE.md file within the source code repository.<br />
-The terms are subject to changes. Users are encouraged to review them periodically.
+Pre-configured environments let you start coding immediately—no more complex setups.
 
-**Email:** <chocholatom1997@gmail.com><br />
-**Personal GitHub:** [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Premierstacks GitHub:** [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Sponsor & License:** [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+**📦 Reuse Across Projects**
 
-### Acquiring a License
+Each library and template is built to be reusable, reducing long-term maintenance.
 
-To use this template, you must obtain a valid license available through a monthly subscription on the [Sponsor & License](https://github.com/sponsors/tomchochola).<br />
-This platform has been chosen for its reliability and ease of use, providing a secure and straightforward way to manage your subscription.
+**🔒 Exclusive Resources**
 
-### Note on Proprietary Dependencies
+Premierstacks offers tools you won’t find in typical open-source collections.
 
-This template may include or rely on proprietary libraries/packages.<br />
-Review and ensure your license covers the usage of these dependencies, or remove/replace them as needed.
+**🛠️ Always Up-to-Date**
 
-## 🖍️ Highlights
+Receive continuous updates and new features, keeping your projects current.
 
-- **Comprehensive Premium Configurations**: All of Tomáš Chochola's premium configurations are pre-configured, encompassing ESLint, Prettier, PHP CS Fixer, and PHPStan, to maintain the highest code quality standards.
-- **Streamlined Development Toolkit**: The template is equipped with an array of tools for linting, static analysis, code styling, and testing, ensuring a productive development environment.
-- **Scalable Project Foundation**: Designed to accommodate various PHP project types, the template's thoughtful structure supports both library development and executable PHP applications.
-- **Makefile-Driven Workflow**: Simplifies routine tasks such as testing, linting, and serving your application with predefined Makefile goals, streamlining your development and CI/CD pipeline crafting process.
-- **Modern PHP Practices**: Adopts contemporary PHP practices and standards, providing a solid base for building robust and maintainable PHP applications.
+**💪 Expert Creators**
 
-## 🎨 Preconfigured Features
+Developed by experienced professionals dedicated to quality and excellence.
 
-The PHP Template is equipped with a comprehensive set of preconfigured features to enhance your development workflow and ensure adherence to best practices:
+## License
 
-- **ESLint**: Incorporates `@premierstacks/eslint-stack` for JavaScript linting, ensuring code quality and consistency within embedded scripts or standalone JavaScript files.
-- **Prettier**: Configured with `@premierstacks/prettier-stack` for code formatting, providing a unified code style across JavaScript and potentially other file formats.
-- **PHP CS Fixer**: Utilizes `premierstacks/php-cs-fixer-stack` for PHP code styling, aligning your PHP code with industry standards and best practices.
-- **PHPStan**: Employs `premierstacks/phpstan-stack` for static analysis, identifying potential issues in PHP code to maintain high code quality.
-- **PHPUnit**: Comes with a ready-to-use setup for unit testing with PHPUnit, fostering a test-driven development approach.
-- **Makefile Goals**: Includes versatile Makefile commands (`make local`, `make testing`, `make development`, `make staging`, `make production`, `make serve`, `make coverage`, `make check`, `make fix`) to streamline tasks like testing, linting, and deployment across various environments.
-- **Scalable Project Structure**: Provides a flexible foundation that supports a wide array of PHP project types, ensuring easy maintainability and scalability.
-- **Dotfiles**: Comes with essential configuration files (.gitignore, .editorconfig, .gitattributes, .prettierignore) pre-set to maintain a clean and consistent coding environment across various platforms and editors, ensuring smooth collaboration and integration.
+**© 2024–Present Tomáš Chochola <chocholatom1997@gmail.com>. All rights reserved.**
 
-## 🎬 Get Started
+This software is proprietary and licensed under specific terms set by its owner.<br />
+Any form of access, use, or distribution requires a valid and active license.<br />
+For full licensing terms, refer to the LICENSE.md file accompanying this software.<br />
 
-### 1️⃣ License Acquisition
+**Purchase a license here: [Github Sponsors](https://github.com/sponsors/tomchochola)**
 
-Secure your license at [Sponsor & License](https://github.com/sponsors/tomchochola).
+**See full terms here: [/LICENSE.md](/LICENSE.md)**
 
-### 2️⃣ Project Creation
+## Getting Started
 
-Use the `Use this template` button on the GitHub repository page to create a new repository from this template.<br />
-Select `Create a new repository` in the dropdown and follow the prompts.
+**1. Review the documentation and license**
 
-### 3️⃣ Customize Your Project
+Ensure this package fits your needs and that you agree with the terms.
 
-Explore the generated repository.<br />
-Remove unnecessary components and adjust it to fit your project's needs.
+**2. Obtain a license**
 
-### 4️⃣ Attribution
+**Purchase a license here: [Github Sponsors](https://github.com/sponsors/tomchochola)**
 
-To comply with the license agreement regarding giving credits to the authors, please keep the `AUTHORS.md` file intact in your project repository.<br />
-Alternatively please ensure to manually give credits to the authors in your project documentation or wherever appropriate, as per the license agreement.
+**3. Project Creation**
 
-### 5️⃣ Usage
+Use the `Use this template` button on the GitHub repository page to create a new repository from this template.
 
-The template includes a Makefile with predefined goals to streamline development:
+Or clone the repository using the following command:
 
-```shell
-# Set up for environment-specific setups
-make local
-make testing
-make development
-make staging
-make production
-
-# Update all dependencies
-make update
-
-# Automatically fix code style issues
-make fix
-
-# Run linters and static analysis tools
-make check
-
-# Start a local development server
-make serve
-
-# Generate and serve test coverage reports
-make coverage
+```bash
+git clone https://github.com/premierstacks/php-app-template.git php-app
 ```
 
-## The Author: Tomáš Chochola
+**4. Customize Your Project**
 
-_Elite developer crafting exclusive, enterprise-grade software, professional packages, and premium templates to elevate your digital landscape._
+Explore the generated repository, remove unnecessary components and adjust it to fit your project's needs.
 
-Tomáš Chochola is the creator and project visionary behind this project.<br />
-His expertise and innovative approach have been instrumental in shaping the project's direction and ensuring its success.<br />
-Tomáš Chochola's commitment to excellence and his passion for development are reflected in the quality and reliability of the project.
+**5. CLI**
 
-**E-mail**: <chocholatom1997@gmail.com><br />
-**Personal GitHub**: [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Premierstacks GitHub**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Sponsor & License**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+Available make commands:
 
-## 🌐 Discover Tomáš Chochola's GitHub Universe
+```bash
+# provision for local environment
+make local
 
-Explore the boundless creativity and innovation in [Personal GitHub](https://github.com/tomchochola). As the epicenter of my digital creations, it offers an extensive collection of avant-garde software packages, refined libraries, and polished templates, meticulously crafted to enhance your development journey. Immerse yourself in a world where efficiency and elegance converge, and elevate your projects with tools that redefine excellence.
+# provision for testing (CI) environment
+make testing
 
-## 💰 Empower Innovation: Support and Subscribe
+# provision for development environment
+make development
 
-Your support transcends mere contributions; it's the lifeblood of innovation and growth. By subscribing for premium access or becoming a sponsor, you directly contribute to the advancement of high-caliber software. Embrace the opportunity to be part of a visionary journey by visiting my [Sponsor & License](https://github.com/sponsors/tomchochola).
+# provision for staging environment
+make staging
 
-## 🤝 Join Forces with Tomáš Chochola
+# provision for production environment
+make production
 
-Embark on a collaborative venture with a developer whose passion for perfection knows no bounds. Whether it's for groundbreaking startups, global enterprises, or transformative government projects, my arsenal of skills is at your command. Let's merge visions and craftsmanship to forge software that stands a class apart. Connect with me at <chocholatom1997@gmail.com> for collaborations that transcend conventional boundaries.
+# run automatic code fixers
+make fix
+
+# run linters, static analysis, tests and audit
+make check
+
+# browser phpunit code coverage
+make coverage
+
+# clean up the project
+make clean
+make distclean
+
+# run before every commit
+make commit
+
+# images/assets compression
+make compress
+```
+
+## About the Creator
+
+I'm Tomáš Chochola, a software developer dedicated to creating exclusive, enterprise-grade software solutions. I specialize in building packages and templates for PHP, JavaScript, and TypeScript, tailored to streamline development workflows, enforce best practices, and save you time.
+
+My mission is to develop reusable solutions that enhance code quality, boost productivity, and ensure that projects remain maintainable and scalable over the long term.
+
+### Specializations
+
+**Backend Development:** Expert in PHP and Laravel<br />
+**Frontend Development:** Mastery in TypeScript, React, and JavaScript<br />
+**DevOps:** Proficient in managing Ubuntu and AWS environments<br />
+**Security:** Focused on implementing best practices and enforcing code standards<br />
+**Tooling:** Extensive experience with ESLint, Prettier, PHP CS Fixer, Stylelint, and PHPStan<br />
+**Reusable Solutions:** Creating templates and configuration stacks for optimized development<br />
+**Development Environments:** Fluent in Windows 11 and Ubuntu (WSL2)<br />
+
+## Contact
+
+**📧 Email: <chocholatom1997@gmail.com>**<br />
+**💻 Website: [https://premierstacks.com](https://premierstacks.com)**<br />
+**👨 GitHub Personal: [https://github.com/tomchochola](https://github.com/tomchochola)**<br />
+**🏢 GitHub Organization: [https://github.com/premierstacks](https://github.com/premierstacks)**<br />
+**💰 GitHub Sponsors: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**<br />
+
+## Tree
+
+The following is a breakdown of the folder and file structure within this repository. It provides an overview of how the code is organized and where to find key components.
+
+```bash
+.
+├── .editorconfig
+├── .gitattributes
+├── .gitignore
+├── .php-cs-fixer.php
+├── .prettierignore
+├── AUTHORS.md
+├── LICENSE.md
+├── Makefile
+├── README.md
+├── composer.json
+├── eslint.config.js
+├── package.json
+├── phpstan.neon
+├── phpunit.xml
+├── prettier.config.js
+├── public
+│   └── index.php
+├── src
+│   └── Main.php
+└── tests
+    └── Unit
+        ├── MainTest.php
+        └── TestCase.php
+
+4 directories, 19 files
+```
